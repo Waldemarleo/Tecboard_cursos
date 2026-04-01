@@ -1,9 +1,5 @@
 # 🚀 Tecboard Cursos
 
-<p align="center">
-  <img src="docs/images/home.png" width="800"/>
-</p>
-
 Plataforma para organização e visualização de cursos de tecnologia, com foco em uma experiência simples, rápida e intuitiva.
 
 ---
